@@ -1,8 +1,7 @@
 //#region 
-var nombre ="priscila";
-let apellido = 'ostertag';
-const edad=
-18;
+var nombre ="Priscila";
+let apellido = 'Ostertag';
+const edad= 18;
 var peso= 44;
 var altura= 48;
 //#endregion
